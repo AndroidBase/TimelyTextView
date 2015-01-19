@@ -47,8 +47,10 @@ Java -
                         
                    }
         }
+![](https://github.com/AndroidBase/TimelyTextView/blob/master/screenshot.gif)
 
 
+!
 License
 --------
 
